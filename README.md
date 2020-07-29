@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on a peer to peer distributed network file storage service for school resources
+### 🔭 I’m Alex ,self taught programmer and web developer .i would say my skils are intermediate,for now anyway.
