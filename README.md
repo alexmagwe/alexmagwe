@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-### 🔭 I’m Alex ,python programmer and full stack web developer
+### 🔭 I’m Alex ,python developer and full stack web developer
