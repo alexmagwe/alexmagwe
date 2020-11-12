@@ -11,9 +11,6 @@
 <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/-Flask-lightgrey?style=for-the-badge&logo=flask&color=grey&logoColor=111111&labelColor=ffffff" alt="flask"></a>
 <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
- 
- <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/-node%20js-green?style=for-the-badge" alt="node-js"></a>
-
 </p>
 
 
