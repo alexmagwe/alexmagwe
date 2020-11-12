@@ -1,5 +1,4 @@
-### Hi there 👋
-### Kepler here
+## Kepler
 ### MY top skill
 * debugging
 ### Knowledge
