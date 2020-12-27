@@ -1,6 +1,4 @@
-## Kepler
-### MY top skill
-* debugging
+## alias=Kepler
 ### Knowledge
 <p>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
@@ -11,7 +9,6 @@
 <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/-Flask-lightgrey?style=for-the-badge&logo=flask&color=grey&logoColor=111111&labelColor=ffffff" alt="flask"></a>
 <a href="https://github.com/alexmagwe"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
 </p>
-
 
 ### stats
   <img src="https://github-readme-stats.vercel.app/api?username=alexmagwe&show_icons=true&hide=commits" />
